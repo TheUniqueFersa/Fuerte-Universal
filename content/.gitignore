@@ -3,7 +3,7 @@
 
 # Ignorar todo
 *
-
+!index.md
 !.gitignore
 
 # Permitir recorrer las rutas dentro de ACADEMIC
